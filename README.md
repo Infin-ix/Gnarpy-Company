@@ -14,9 +14,10 @@ GnarpyCompany introduces a mod pack designed for modding in mod-free servers and
    - Facilitates interaction with other players.
    - Note: Some servers, whether modded or not, may encounter errors.
 
-3. **Late Mods:**
+3. **Late Mods with Expanded Lobby:**
    - Enables latecomers, with or without mods, to join seamlessly.
-   - Utilizes LateCompany for efficient late joining.
-   - Note: Similar to hosting mods but tailored for latecomers using LateCompany.
+   - Utilizes LateCompany for efficient late joining. (LateCompany)
+   - Features a larger lobby space for an enhanced multiplayer experience. (MoreCompany)
+   - Note: Similar to hosting mods but tailored for latecomers using LateCompany, now with a more spacious lobby.
 
 Embark on a modding journey with GnarpyCompany, where we continuously strive to enhance and simplify the modding experience for players with varying preferences.
